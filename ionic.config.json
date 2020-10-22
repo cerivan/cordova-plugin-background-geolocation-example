@@ -1,0 +1,7 @@
+{
+  "name": "GeolocSAMPLE",
+  "type": "custom",
+  "integrations": {
+    "cordova": {}
+  }
+}
